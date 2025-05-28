@@ -101,6 +101,8 @@ Real-time chat application with modern UI and seamless communication features.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemiyudhia&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 ## 📫 Let's Connect
 
 <div align="center">
