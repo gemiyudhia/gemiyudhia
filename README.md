@@ -99,43 +99,43 @@
 <tr>
 <td width="50%">
 
-<h3 align="center">E-Commerce Platform</h3>
+<h3 align="center">Talky</h3>
 <div align="center">  
-<a href="https://github.com/yourusername/ecommerce-project" target="_blank">
-<img src="/placeholder.svg?height=200&width=300" alt="E-Commerce Platform" />
+<a href="https://github.com/gemiyudhia/talky" target="_blank">
+<img src="/placeholder.svg?height=200&width=300" alt="Talky" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/yourusername/ecommerce-project" target="_blank">
+<a href="https://github.com/gemiyudhia/talky" target="_blank">
 <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>  
-<a href="https://your-ecommerce-demo.vercel.app" target="_blank">
+<a href="https://talky-three.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
-<p><strong>React, Next.js, Tailwind CSS, Stripe</strong> - A full-featured e-commerce platform with cart functionality, payment integration, and responsive design.</p>
+<p><strong>Next.js, Typescript, Tailwind CSS, Shadcn UI, Firebase, Socket.io, NextAuth</strong> - An application that supports user authentication, real-time communication, and Firebase integration.</p>
 </div>
 
 </td>
 <td width="50%">
 
-<h3 align="center">Task Management App</h3>
+<h3 align="center">Socialfy</h3>
 <div align="center">
-<a href="https://github.com/yourusername/task-manager" target="_blank">
-<img src="/placeholder.svg?height=200&width=300" alt="Task Manager" />
+<a href="https://github.com/gemiyudhia/socialfy" target="_blank">
+<img src="/placeholder.svg?height=200&width=300" alt="Socialfy" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/yourusername/task-manager" target="_blank">
+<a href="https://github.com/gemiyudhia/socialfy" target="_blank">
 <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>  
-<a href="https://your-taskmanager-demo.vercel.app" target="_blank">
+<a href="https://socialfy-kohl.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
-<p><strong>React, TypeScript, Material-UI</strong> - A productivity app with drag-and-drop functionality, real-time updates, and intuitive user interface.</p>
+<p><strong>Next.js, TypeScript, Firebase, Shadcn UI, NextAuth</strong> - Socialfy is a social media web application.</p>
 </div>
 
 </td>
@@ -143,43 +143,43 @@
 <tr>
 <td width="50%">
 
-<h3 align="center">Weather Dashboard</h3>
+<h3 align="center">Online Store</h3>
 <div align="center">
-<a href="https://github.com/yourusername/weather-dashboard" target="_blank">
-<img src="/placeholder.svg?height=200&width=300" alt="Weather Dashboard" />
+<a href="https://github.com/gemiyudhia/onlinestore" target="_blank">
+<img src="/placeholder.svg?height=200&width=300" alt="Online Store" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/yourusername/weather-dashboard" target="_blank">
+<a href="https://github.com/gemiyudhia/onlinestore" target="_blank">
 <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>  
-<a href="https://your-weather-demo.vercel.app" target="_blank">
+<a href="https://toko-online-mu.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
-<p><strong>Vue.js, Chart.js, OpenWeather API</strong> - Interactive weather dashboard with beautiful visualizations and location-based forecasts.</p>
+<p><strong>Next.js, Tailwind CSS, Firebase, NextAuth, Shadcn UI, Zustand, Fake Store API</strong> - An e-commerce web application built with modern technologies to provide a seamless shopping experience. The application supports product browsing, user authentication.</p>
 </div>
 
 </td>
 <td width="50%">
 
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">Movie Search</h3>
 <div align="center">
-<a href="https://github.com/yourusername/portfolio" target="_blank">
-<img src="/placeholder.svg?height=200&width=300" alt="Portfolio Website" />
+<a href="https://github.com/gemiyudhia/new-movie-project" target="_blank">
+<img src="/placeholder.svg?height=200&width=300" alt="Movie Search" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/yourusername/portfolio" target="_blank">
+<a href="https://github.com/gemiyudhia/new-movie-project" target="_blank">
 <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>  
-<a href="https://your-portfolio.vercel.app" target="_blank">
+<a href="https://movie-project-sandy-nu.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
-<p><strong>Next.js, Tailwind CSS, Framer Motion</strong> - Personal portfolio with smooth animations, dark/light mode toggle, and responsive design.</p>
+<p><strong>React, Typescript, Tailwind CSS, Headless UI, GSAPand</strong> - A Movie Search Application built using React, Vite, TypeScript, Tailwind CSS, Headless UI, and GSAP for animations. The app enables users to search for movies and explore various categories, such as popular movies, top-rated movies, and more.</p>
 </div>
 
 </td>
