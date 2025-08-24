@@ -1,122 +1,291 @@
-# 👋 Hello, World! I'm Gemi Yudhia
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Next.js+%26+TypeScript+Enthusiast;Tailwind+CSS+Aficionado;Always+learning+new+things" alt="Typing SVG" />
+  <!-- Replaced placeholder banner with custom PNG banner -->
+  <img src="/github-banner.png" alt="Frontend Developer Banner" />
 </div>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Gemi+Yudhia;Frontend+Developer+💻;Learning+new+things+🚀&center=true&size=30&color=58a6ff">
+  </a>
+</h1>
+
+---
 
 ## 🚀 About Me
 
-I'm a passionate Frontend Developer with a love for crafting beautiful, high-performance web experiences using modern technologies. My expertise lies in Next.js, TypeScript, and Tailwind CSS. I'm always excited to take on new challenges in the world of web development and create responsive, elegant user interfaces.
+<!-- Restructured about section with grid layout -->
+<table>
+<tr>
+<td width="60%">
 
-## 🛠️ Tech Stack
+### 👨‍💻 Current Focus
+- 🔭 I'm currently working on **exciting frontend projects**
+- 🌱 I'm currently learning **React, Next.js, and modern web technologies**
+- 👯 I'm looking to collaborate on **open source projects**
+- 📫 How to reach me: **gemiyudhiaa@gmail.com**
+- ⚡ Fun fact: **I love turning coffee into code!**
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</td>
+<td width="40%">
+<div align="center">
+<img alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=gemiyudhia&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+</div>
+</td>
+</tr>
+</table>
 
-## 💅 Tailwind CSS Expertise
+---
 
-I'm passionate about using Tailwind CSS to create beautiful, responsive, and highly customizable user interfaces. Here's why I love working with Tailwind:
+## 🛠️ Technologies & Tools
 
-- 🚀 Rapid prototyping and development
-- 🎨 Consistent design system
-- 📱 Easy responsive design
-- 🛠️ Highly customizable
-- 🧩 Great component reusability
+<!-- Restructured tech stack with better grid system -->
+<div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <b>Tech Stack</b>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</div>
 
-## 🌟 Featured Projects
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+
+</td>
+<td width="33%" align="center">
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Featured Projects
+
+<!-- Added animated project showcase header -->
+<div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <b>Project Showcase</b>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</div>
 
 <div align="center">
 
-### 🎬 Movies Search
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/gemiyudhia/new-movie-project)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://movie-project-sandy-nu.vercel.app/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/gemiyudhia/new-movie-project)
-[![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/gemiyudhia/new-movie-project)
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)](https://github.com/gemiyudhia/new-movie-project)
+<table>
+<tr>
+<td width="50%">
 
-A dynamic movie search application featuring smooth GSAP animations and a modern UI. Browse popular and top-rated movies with ease!
+<h3 align="center">E-Commerce Platform</h3>
+<div align="center">  
+<a href="https://github.com/yourusername/ecommerce-project" target="_blank">
+<img src="/placeholder.svg?height=200&width=300" alt="E-Commerce Platform" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/yourusername/ecommerce-project" target="_blank">
+<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="https://your-ecommerce-demo.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+<p><strong>React, Next.js, Tailwind CSS, Stripe</strong> - A full-featured e-commerce platform with cart functionality, payment integration, and responsive design.</p>
+</div>
 
-**Tech Stack:** React, Vite, TypeScript, Tailwind CSS, Zustand, GSAP, Headless UI
+</td>
+<td width="50%">
 
-[View Demo](https://movie-project-sandy-nu.vercel.app/) • [Source Code](https://github.com/gemiyudhia/new-movie-project)
+<h3 align="center">Task Management App</h3>
+<div align="center">
+<a href="https://github.com/yourusername/task-manager" target="_blank">
+<img src="/placeholder.svg?height=200&width=300" alt="Task Manager" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/yourusername/task-manager" target="_blank">
+<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="https://your-taskmanager-demo.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+<p><strong>React, TypeScript, Material-UI</strong> - A productivity app with drag-and-drop functionality, real-time updates, and intuitive user interface.</p>
+</div>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🛍️ Online Store
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/gemiyudhia/onlinestore)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://toko-online-mu.vercel.app/)
-[![NextAuth](https://img.shields.io/badge/NextAuth-666666?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/gemiyudhia/onlinestore)
-[![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/gemiyudhia/onlinestore)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/gemiyudhia/onlinestore)
+<h3 align="center">Weather Dashboard</h3>
+<div align="center">
+<a href="https://github.com/yourusername/weather-dashboard" target="_blank">
+<img src="/placeholder.svg?height=200&width=300" alt="Weather Dashboard" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/yourusername/weather-dashboard" target="_blank">
+<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="https://your-weather-demo.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+<p><strong>Vue.js, Chart.js, OpenWeather API</strong> - Interactive weather dashboard with beautiful visualizations and location-based forecasts.</p>
+</div>
 
-A full-featured e-commerce platform with authentication and seamless shopping experience.
+</td>
+<td width="50%">
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, NextAuth, Zustand, Firebase
+<h3 align="center">Portfolio Website</h3>
+<div align="center">
+<a href="https://github.com/yourusername/portfolio" target="_blank">
+<img src="/placeholder.svg?height=200&width=300" alt="Portfolio Website" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/yourusername/portfolio" target="_blank">
+<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="https://your-portfolio.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+<p><strong>Next.js, Tailwind CSS, Framer Motion</strong> - Personal portfolio with smooth animations, dark/light mode toggle, and responsive design.</p>
+</div>
 
-[View Demo](https://toko-online-mu.vercel.app/) • [Source Code](https://github.com/gemiyudhia/onlinestore)
-
----
-
-### 🌐 Socialfy
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/gemiyudhia/socialfy)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://socialfy-kohl.vercel.app/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/gemiyudhia/socialfy)
-[![NextAuth](https://img.shields.io/badge/NextAuth-666666?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/gemiyudhia/socialfy)
-
-Connect and share with friends on this modern social media platform.
-
-**Tech Stack:** Next.js, TypeScript, TailwindCSS, Firebase, NextAuth
-
-[View Demo](https://socialfy-kohl.vercel.app/) • [Source Code](https://github.com/gemiyudhia/socialfy)
-
----
-
-### 💬 Talky
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/gemiyudhia/talky)
-[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://talky-three.vercel.app/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/gemiyudhia/talky)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/gemiyudhia/talky)
-[![NextAuth](https://img.shields.io/badge/NextAuth-666666?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/gemiyudhia/talky)
-
-Real-time chat application with modern UI and seamless communication features.
-
-**Tech Stack:** Next.js, TypeScript, TailwindCSS, Firebase, NextAuth, Socket.io
-
-[View Demo](https://talky-three.vercel.app/) • [Source Code](https://github.com/gemiyudhia/talky)
+</td>
+</tr>
+</table>
 
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
+<!-- Restructured stats section with comprehensive grid layout -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gemiyudhia&show_icons=true&theme=tokyonight" alt="Gemi's GitHub Stats" />
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <b>GitHub Analytics</b>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gemiyudhia&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gemiyudhia&theme=radical&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemiyudhia&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemiyudhia&theme=radical" alt="Profile Summary" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gemiyudhia&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</div>
+
+<!-- Added contribution metrics grid -->
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gemiyudhia&theme=radical" alt="Repos per Language" />
+</td>
+<td width="25%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gemiyudhia&theme=radical" alt="Most Commit Language" />
+</td>
+<td width="25%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gemiyudhia&theme=radical" alt="Stats" />
+</td>
+<td width="25%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gemiyudhia&theme=radical&utcOffset=8" alt="Productive Time" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect with Me
+
+<!-- Enhanced social media section with grid layout -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <br>
+  <b>Let's Connect and Build Something Amazing Together!</b>
+  <br><br>
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🤝 Professional Networks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gemiyudhia)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gemiyudhiaa.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gemiyudhiaa@gmail.com)
+
+</td>
+<td width="50%" align="center">
+
+### 📱 Social Media
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuudhia)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Added animated snake eating contributions and wave animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemiyudhia&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gemiyudhiaa.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gemiyudhia)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuudhia/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gemiyudhiaa@gmail.com)
-
-</div>
-
-<div align="center">
+  <img src="/thank-you-banner.png" alt="Thank you banner" />
   
-  🚀 Let's build something amazing together with Next.js, TypeScript, and Tailwind CSS!
-  
+  **Thanks for visiting my profile! Let's build something amazing together!** 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </div>
 
+<!-- Added animated wave footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
