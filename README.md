@@ -102,7 +102,7 @@
 <h3 align="center">Talky</h3>
 <div align="center">  
 <a href="https://github.com/gemiyudhia/talky" target="_blank">
-<img src="/placeholder.svg?height=200&width=300" alt="Talky" />
+<img src="/talky.png" alt="Talky" />
 </a>
 <br>
 <br>
@@ -146,7 +146,7 @@
 <h3 align="center">Online Store</h3>
 <div align="center">
 <a href="https://github.com/gemiyudhia/onlinestore" target="_blank">
-<img src="/placeholder.svg?height=200&width=300" alt="Online Store" />
+<img src="/onlinestore.jpeg" alt="Online Store" />
 </a>
 <br>
 <br>
@@ -167,7 +167,7 @@
 <h3 align="center">Movie Search</h3>
 <div align="center">
 <a href="https://github.com/gemiyudhia/new-movie-project" target="_blank">
-<img src="/placeholder.svg?height=200&width=300" alt="Movie Search" />
+<img src="/movie-search.png" alt="Movie Search" />
 </a>
 <br>
 <br>
