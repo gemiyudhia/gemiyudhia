@@ -123,7 +123,7 @@
 <h3 align="center">Socialfy</h3>
 <div align="center">
 <a href="https://github.com/gemiyudhia/socialfy" target="_blank">
-<img src="/placeholder.svg?height=200&width=300" alt="Socialfy" />
+<img src="/socialfyy.jpeg" alt="Socialfy" />
 </a>
 <br>
 <br>
